@@ -1,2 +1,0 @@
-# squash-commits-example
-
